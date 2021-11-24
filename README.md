@@ -6,5 +6,5 @@ All problems are from [baekjoon](https://www.acmicpc.net/).
 
 |Period|Topic|Baekjoon Problems|
 |------|-----|-----------------|
-|21.11.22-27|Big-O notation, Brute Force|2329, 15649, 10972, 9095, 1182|
+|21.11.22-27|Big-O notation, Brute Force|[2329](), [15649](), [10972](), [9095](), [1182]()|
 ||||
