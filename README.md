@@ -1,5 +1,5 @@
-# Baekjoon-Problem-Solving
-# 백준 문제 풀이
+# Baekjoon-Problem-Solving(LLFE PS study)
+# 백준 문제 풀이(멋사 코테 스터디)
 
 Below is the list of the problems that we(LLFE advanced PS study) dealt with/ will be dealing with for 3 months.  
 We chose 1 topic for a week, studied the theory, tried 5 problems related and debated to derive the best solution.  
