@@ -9,6 +9,5 @@ All problems are from [baekjoon](https://www.acmicpc.net/).
 
 |Period|Topic|Baekjoon Problems|
 |------|-----|-----------------|
-|21.11.22-27|Big-O notation, Brute Force|[2309](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/2309.md)  
-[15649](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/15649.md), [10972](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/10972.md), [9095](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/9095.md), [1182](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/1182.md)|
+|21.11.22-27|Big-O notation, Brute Force|[2309](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/2309.md), [15649](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/15649.md), [10972](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/10972.md), [9095](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/9095.md), [1182](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/1182.md), 9663, 1339, 16637, 2048, 1285|
 ||||
