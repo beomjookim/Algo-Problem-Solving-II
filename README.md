@@ -1,13 +1,13 @@
-# Baekjoon-Problem-Solving(LLFE PS study)
-# 백준 문제 풀이(멋사 코테 스터디)
+# Algorithm-Problem-Solving (LLFE PS study)
+# 알고리즘 문제 풀이 (멋사 코테 스터디)
 
-Below is the list of the problems that we(LLFE advanced PS study) dealt with/ will be dealing with for 2 months.  
+Below is the list of the problems that we(LLFE advanced PS study) dealt with/ will be dealing with.  
 We chose 1 topic for a week, studied the theory, tried 4~5 problems related and debated to derive the best solution.  
-All problems are from [baekjoon](https://www.acmicpc.net/).  
+All problems are from [baekjoon](https://www.acmicpc.net/), [programmers](https://programmers.co.kr/) and [Leetcode](https://leetcode.com/).  
 
-두달여 간 LLFE PS 스터디에서 다룬/다룰 문제 리스트입니다. 한 주에 한 토픽을 정하여 이론 공부하고, 4~5문제를 선정해 각자 풀고 최적의 풀이를 토론을 통해 도출하였습니다. 모든 문제는 [백준](https://www.acmicpc.net/)에서 가져왔습니다.  
+LLFE PS 스터디에서 다룬/다룰 문제 리스트입니다. 한 주에 한 토픽을 정하여 이론 공부하고, 4~5문제를 선정해 각자 풀고 최적의 풀이를 토론을 통해 도출하였습니다. 모든 문제는 [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/) 혹은 [리트코드](https://leetcode.com/)에서 가져왔습니다.  
 
-|Period|Topic|Baekjoon Problems|
+|Period|Topic|Problems|
 |------|-----|-----------------|
 |21.11.21-27|Big-O notation, Brute Force|[2309](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/2309.md), [15649](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/15649.md), [10972](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/10972.md), [9095](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/9095.md), [1182](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Brute%20Force/1182.md)|
 |21.11.28-12.4|Greedy Algorithms|[2839](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/2839.md), [5585](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/5585.md), [11047](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/11047.md), [1931](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/1931.md), [11399](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/11399.md), [1339](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Greedy/1339.md)|
@@ -16,3 +16,4 @@ All problems are from [baekjoon](https://www.acmicpc.net/).
 |21.12.20-12.26|Dynamic Programming|[10870](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Dynamic%20Programming/10870.md), [2579](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Dynamic%20Programming/2579.md), [11053](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Dynamic%20Programming/11053.md), [1149](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Dynamic%20Programming/1149.md), [N으로 표현](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/Dynamic%20Programming/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.md)|
 |21.12.27-22.01.02|Depth-First Search|[2606](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/2606.md), [1012](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/1012.md), [2667](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/2667.md), [10026](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/10026.md)|
 |22.01.03-22.01.09|Breadth-First Search|[11724](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/11724.md), [4963](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/4963.md), [7576](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/7576.md), [14502](https://github.com/beomjookim/Problem-Solving-Baekjoon/blob/main/DFS%20and%20BFS/14502.md)|
+|22.02.03-22.02.03|Linked Lists|[1290](), [](), [](), [](), []()|
